@@ -5,6 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=70&lines=IT+Student+%7C+Future+Software+Engineer;Full-Stack+Web+Developer;Open+Source+Contributor;Problem+Solver+%26+Coffee+Lover+%E2%98%95)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=prince-yadav&color=0e75b6&style=for-the-badge)](https://github.com/prince-yadav)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-prince--yadav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince-yadav)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav-9b4060305/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnvianprince@gmail.com)
 
@@ -59,17 +60,17 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prince-yadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prince's GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince-yadav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=warrior-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prince's GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warrior-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=prince-yadav&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=warrior-hub&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince-yadav&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=warrior-hub&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -97,7 +98,7 @@
 ```
 ┌─ SHORT TERM (Next 6 months) ─────────────────────┐
 │  ✅ Master MERN Stack Development                │
-│  ✅ Complete 100+ DSA Problems                   │
+│  ✅ Complete 600+ DSA Problems                   │
 │  ✅ Build 3 Full-Stack Projects                  │
 │  ✅ Contribute to 10+ Open Source Projects       │
 └──────────────────────────────────────────────────┘
@@ -128,8 +129,8 @@
 
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prince-yadav&repo=repo-name-1&theme=tokyonight)](https://github.com/prince-yadav/repo-name-1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=prince-yadav&repo=repo-name-2&theme=tokyonight)](https://github.com/prince-yadav/repo-name-2)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=warrior-hub&repo=repo-name-1&theme=tokyonight)](https://github.com/warrior-hub/product-showcase-htm)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=warrior-hub&repo=repo-name-2&theme=tokyonight)](https://github.com/warrior-hub/myntra-clone)
 
 </div>
 
@@ -148,7 +149,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prince-yadav&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warrior-hub&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
 ---
@@ -161,7 +162,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav-9b4060305/)
 [![Email](https://img.shields.io/badge/Email-jnvianprince@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnvianprince@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-warrior--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/warrior-hub)
+[![GitHub](https://img.shields.io/badge/GitHub-warrior--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github)
 
 ---
 
