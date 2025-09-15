@@ -161,7 +161,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav-9b4060305/)
 [![Email](https://img.shields.io/badge/Email-jnvianprince@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnvianprince@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-prince--yadav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince-yadav)
+[![GitHub](https://img.shields.io/badge/GitHub-warrior--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/warrior-hub)
 
 ---
 
