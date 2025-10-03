@@ -4,8 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=70&lines=IT+Student+%7C+Future+Software+Engineer;Full-Stack+Web+Developer;Open+Source+Contributor;Problem+Solver+%26+Coffee+Lover+%E2%98%95)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=prince-yadav&color=0e75b6&style=for-the-badge)](https://github.com/prince-yadav)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-prince--yadav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prince-yadav)
+[![Profile Views](https://komarev.com/ghpvc/?username=warrior-hub&color=0e75b6&style=for-the-badge)](https://github.com/warrrior-hub)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-warrior--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/warrior-hub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-yadav-9b4060305/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnvianprince@gmail.com)
 
